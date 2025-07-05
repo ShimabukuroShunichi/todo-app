@@ -1,7 +1,7 @@
 # todo-app
 Todoリストアプリ
 
-
+今回は、簡単なtodoリストを作成し、そこから自分好みの要素を足していきオリジナルtodoリストを作っていきます。
 
 ・index.html のコード
 ![Index](images/Index.png)
