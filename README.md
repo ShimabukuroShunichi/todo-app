@@ -4,11 +4,11 @@ Todoリストアプリ
 
 
 ・index.html のコード
-![index](images/Index.png)
+![Index](images/Index.png)
 
 ・style.css のコード
-![style1](images/Style1.png)
-![style1](images/Style2.png)
+![Style1](images/Style1.png)
+![Style2](images/Style2.png)
 
 ・app.js のコード
-![app](images/App.png)
+![App](images/App.png)
