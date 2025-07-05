@@ -3,4 +3,4 @@ Todoリストアプリ
 
 
 ・index.html のコード
-![index.html](images/index.png)
+![index](images/index.png)
