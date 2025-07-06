@@ -1,6 +1,7 @@
 # todo-app
-Todoリストアプリ　
-～　https://shimabukuroshunichi.github.io/todo-app/　～(作成開始日：7月5日)
+Todoリストアプリ　(作成開始日：7月5日)
+https://shimabukuroshunichi.github.io/todo-app/
+↑今回作成したtodoアプリ
 
 今回は、簡単なtodoリストを作成し、そこから自分好みの要素を足していきオリジナルtodoリストを作っていきます。
 
