@@ -3,17 +3,17 @@ Todoリストアプリ　(作成開始日：7月5日)
 
 今回は、簡単なtodoリストを作成し、そこから自分好みの要素を足していきオリジナルtodoリストを作っていきます。
 
-・index.html のコード
+## ・index.html のコード
 ![index](images/index.png)
 
-・style.css のコード
+## ・style.css のコード
 ![style1](images/style1.png)
 ![style2](images/style2.png)
 
-・app.js のコード
+## ・app.js のコード
 ![app](images/app.png)
 
-・完成画面
+## ・完成画面
 ![todo](images/todo1.png)
 これで基本となるtodoリストが出来ました！
 ですが、これだけまだ予定を入れるだけなので  
@@ -29,3 +29,7 @@ Todoリストアプリ　(作成開始日：7月5日)
 こうすることで入力欄と表示欄が横並びになり、見やすくなります！
 ![style2-1](images/style2-1.png)
 ![style2-2](images/style2-2.png)
+
+## ・完成画面
+![todo2](images/todo2.png)
+左側で今日の予定を入力し、それを右側に表示させることができました！
