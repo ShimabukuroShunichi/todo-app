@@ -37,4 +37,13 @@ https://shimabukuroshunichi.github.io/todo-app/
 左側で今日の予定を入力し、それを右側に表示させることができました！
 
 ですが、このままの状態ではページを更新したり一度削除してしまうと  
-せっかく作った予定が消えてしまうのでローカルストレージを使ってそれらを防ぐ機能を実装します。
+せっかく作った予定が消えてしまうのでローカルストレージを使ってそれらを防ぐ機能を実装します。  
+ローカルストレージを作成するにはapp.jsを使います。
+![app2-1](images/app2-1.png)
+![app2-2](images/app2-2.png)
+これにより、todosキーに入力した予定が入ります。
+![todo3](images/todo3.png)
+F12を押して「Application」タブの  
+「Storage」→「Local Storage」→「`https://shimabukuroshunichi.github.io`」
+を確認すると「todos」キーに入力した予定が保存されています。  
+これによりページをリロードしても予定が削除されません！
