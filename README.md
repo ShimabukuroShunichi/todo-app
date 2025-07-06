@@ -16,12 +16,16 @@ Todoリストアプリ　(作成開始日：7月5日)
 ・完成画面
 ![todo](images/todo1.png)
 これで基本となるtodoリストが出来ました！
-ですが、これだけまだ予定を入れるだけなのでここから入力した予定が画面右側に表示されるようにしていきます。
+ですが、これだけまだ予定を入れるだけなので  
+ここから入力した予定が画面右側に表示されるようにしていきます。
 
 まずはindex.htmlを変更していきます。
-クラスをinput-areaとtodo-displayの二つに分けて予定を入れる欄とそれを表示する欄を作りました。(マーカーの箇所)
+クラスをinput-areaとtodo-displayの二つに分けて予定を入れる欄と  
+それを表示する欄を作りました。(マーカーの箇所)
 ![index](images/index2.png)
 
-次にstyle.cssも変更します。
+次にstyle.cssも変更します。  
+始めに作成したstyle.cssはbodyの中にdisplayとjustify-contentが入っていましたが、.containerの中に移動します。  
+こうすることで入力欄と表示欄が横並びになり、見やすくなります！
 ![style2-1](images/style2-1.png)
 ![style2-2](images/style2-2.png)
